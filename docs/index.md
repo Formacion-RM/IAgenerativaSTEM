@@ -163,6 +163,10 @@ Promovido por Microsoft, se anuncia como *"su complemento de IA para todos los d
 
     Copilot está basado en chatGPT y utiliza herramientas desarrolladas por la empresa **OpenAI**, donde Microsoft mantiene una participación importante.
 
+!!! alert "Los agentes en copilot"
+
+    Si se utiliza una cuenta para acceder. Existe la posibilidad de crear un **Agente** personal. Que se puede utilizar como asistente de ayuda personal, ya que no se puede hacer público.
+
 
 ### **Claude**
 
