@@ -165,7 +165,9 @@ Promovido por Microsoft, se anuncia como *"su complemento de IA para todos los d
 
 !!! alert "Los agentes en copilot"
 
-    Si se utiliza una cuenta para acceder. Existe la posibilidad de crear un **Agente** personal. Que se puede utilizar como asistente de ayuda personal, ya que no se puede hacer público.
+    Si se utiliza una cuenta para acceder. Existe la posibilidad de crear un **Agente** personal. 
+    
+    Este agente se puede crear utilizando un chat con IA, también a partir de una plantilla, o comenzar desde cero estableciendo tanto las instrucciones (prompt) como otras acciones vinculadas. 
 
 
 ### **Claude**
