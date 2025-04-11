@@ -1,5 +1,5 @@
 site_name: IA generativa STEM
-site_url:  https://Formacion-RM.github.io/IAgenerativa/
+site_url:  https://Formacion-RM.github.io/IAgenerativaSTEM/
 site_dir: ../site
 docs_dir: docs
 use_directory_urls: false
@@ -33,7 +33,7 @@ extra:
     language: "es"
   social:
     #- icon: fontawesome/solid/envelope-square
-    link: mailto:<formacion.rm8a@gmail.com>
+    # link: mailto:<formacion.rm8a@gmail.com>
   analytics:
     provider: google
     property: G-MPYXZ32PBF
