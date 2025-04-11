@@ -1,12 +1,12 @@
 --- 
-title: IA generativa
+title: Fundamentos
 summary: Presentación de la IA generativa. Aplicación y conceptos básicos.
 authors:
     - Manuela Iborra
     - Jose Robledano
-date: 2024-03-10
+date: 2025-04-11
 ---
-# **IA GENERATIVA**
+# **FUNDAMENTOS DE LA IA GENERATIVA**
 
 ## **¿Qué es la IA?**
 
@@ -54,7 +54,7 @@ La importancia de la IA generativa en la educación radica en varias áreas clav
 5. **Investigación Educativa**: La IA generativa puede ser una herramienta poderosa para la investigación educativa, permitiendo a los investigadores generar y analizar grandes volúmenes de datos de manera eficiente y descubrir patrones y tendencias que ayuden a mejorar la práctica pedagógica.
 
 !!! alert "Llega la transformación"
-    la IA generativa tiene el potencial de transformar la educación al proporcionar nuevas formas de crear contenido, personalizar el aprendizaje y mejorar la experiencia educativa tanto para estudiantes como para educadores. Sin embargo, es importante abordar de manera ética y reflexiva los desafíos y consideraciones éticas asociados con su uso en el ámbito educativo.
+    la IA generativa tiene el potencial de transformar la educación al proporcionar nuevas formas de crear contenido, personalizar el aprendizaje y mejorar la experiencia educativa tanto para estudiantes como para educadores. Sin embargo, es importante abordar de manera ética y reflexiva los desafíos y consideraciones asociadAs con su uso en el ámbito educativo.
 
 ## **Historia y evolución de la IA Generativa**
 
@@ -143,7 +143,7 @@ Este tema nos invita a considerar no solo el potencial transformador de la IA ge
 
 **ChatGPT** es una aplicación conversacional basada en IA, desarrollada por la empresa OpenAI en 2022. Es capaz de generar respuestas humanas coherentes y contextuales a partir de un texto de entrada. Ha sido entrenado en una amplia gama de texto de internet y es capaz de participar en conversaciones en lenguaje natural, responder preguntas y completar solicitudes.
 
-Existen actualmente dos versiones, una que es gratuita y otra de pago que tiene más prestaciones.
+Existen actualmente varias versiones, que permiten el uso gratuito hasta cierto límite y otra de pago que tiene más prestaciones.
 
 <center>![](imagenes/chatgpt.PNG){width=300}</center>
 
@@ -153,7 +153,7 @@ Existen actualmente dos versiones, una que es gratuita y otra de pago que tiene 
 ### **Copilot**
 Promovido por Microsoft, se anuncia como *"su complemento de IA para todos los días"*. Está integrado con el buscador [bing.com](https://www.bing.com){:target="_blank"}. Si estamos validados con un usuario de Microsoft, muestra una síntesis explicativa autogenerada a partir de la consulta realizada, al tiempo que aparecen los enlaces a sitios de Internet de la manera habitual.
 
-**Copilot** dispone de otras herramientas derivadas que pueden utilizarse para generar imágenes, planes vacacionales, entrenador y asistente de cocina.
+**Copilot** dispone de otras herramientas derivadas que pueden utilizarse para generar imágenes, planes vacacionales, entrenador y asistente de cocina. También está integrado en otras aplicaciones de Microsoft.
 
 <center>![](imagenes/copilot_herramientas.png)</center>
 
