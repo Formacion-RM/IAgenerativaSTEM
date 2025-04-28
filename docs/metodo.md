@@ -4,13 +4,69 @@ summary: Las IA generativas pueden incorporarse a la docencia, pero es necesario
 authors:
     - Manuela Iborra
     - Jose Robledano
-date: 2024-11-12
+date: 2025-04-26
 ---
 # **Metodología didáctica con IA**
 
-La Inteligencia Artificial generativa está cada vez más presente en los procesos de enseñanza y aprendizaje.
+La Inteligencia Artificial generativa es una readlidad en los procesos de enseñanza y aprendizaje.
 
-También hay más experiencias educativas basadas en esta herramienta. Concer sus posibilidades puede ayudar a replantear la propia metodología didactica.
+!!! alert "La IA responde"
+    *"Las herramientas de inteligencia artificial, ***siempre*** dan una respuesta a cualquier pregunta"*
+
+Es fácil encontrar situaciones donde se está utilizando, así como indicar ejemplos ejemplos de experiencias educativas basadas en esta herramienta.
+
+## Casos de uso
+
+Se recopilan aquí algunas acciones conocidas, realizadas por el alumnado, junto con sugerencias de mejora que permitan otorgar un valor formativo mayor.
+
+### Respuesta directa
+
+Alumnado que traslada directamente el enunciado a la inteligencia artificial generativa, para obtener una respuesta que cumpla con el plazo de presentación de la tarea.
+
+Es considerada una herramienta para facilitar la realización de tareas que requieren una respuesta elaborada. En definitiva simplifica el trabajo de búsqueda de fuentes de información, así como su síntesis.
+
+Esto supone la entrega de tareas, que de otra forma, quedarían sin realizar.
+
+La revisión de estas respuetas requiere tiempo y ciertos conocimientos para detectar la corrección de la respuesta optenida. Es frecuente que la revisión no se realice y la entrega o "*realización*" de la tarea sea simplemente una copia directa de la respuesta.
+
+El alumnado queda satisfecho con la respuesta conseguida, simplemente por la **longitud** de la misma, sin realizar una lectura del resultado.
+
+Una mejora posible, orienta a realizar una lectura comprensiva de la respuesta, verificando que es correcta. Se puede realizar utilizando materiales y fuentes facilitados por el docente.
+
+!!! info "Materiales de alta calidad"
+    Los materiales facilitados por el docente, o los apuntes tomados por el estudiante, deben ser de calidad superior a la respuesta proporcionada por la inteligencia artificial generativa.
+
+    Esto no siempre ocurre. 
+    
+    La responsabilidad es del docente, que debe puntualizar y orientar su uso.
+
+    Hay que medir muy bien el esfuerzo del alumnado, y el tiempo dedicado frente a otras posibilidades. 
+
+Una variación, sería facilitar el mismo enunciado a dos motores de inteligencia artificial diferentes, para contrastar las respuestas obtenidas.
+
+El objetivo formativo es preguntar a la inteligencia artificial generativa de manera interactiva (es un chat) para obtener las aclaraciones necesarias para comprender mejor tanto el enunciado como la respuesta obtenida.
+
+### Análisis de documentos
+
+Cuando el profesorado facilita un documento, y el estudiante realiza una simplificación del mismo con el uso de la inteligencia artificial generativa.
+
+Pueden surgir alucinaciones en la IA, obteniendo desviaciones del propósito original del material. 
+
+Es muy importante facilitar las adecuadas instrucciones de uso del documento *(hay que leerlo por completo, hay que centrarse en algunos apartados, hay que realizar actividades de ejemplo)*.
+
+Una posible mejora, es ofrecer al alumnado el uso del documento para generar cuestiones de aprendizaje, de diferente nivel de dificultad, a partir del documento.
+
+Las cuestiones pueden organizarse a modo de examinador. Obteniendo la retroalimentación inmediata a las respuesta dadas.
+
+## Casos de uso del profesorado
+
+El profesorado dispone de materiales y actividades que reutiliza una y otra vez, con la posibilidad de estas queden fuera de un contexto actual.
+
+!!! info "Los caramelos"
+    El tradicional ejemplo de los caramelos para sumar o restar, debe ser actualizado a otro tipo de golosina más actual.
+
+
+Conocer las posibilidades de la inteligencia artificial generativa ayuda a replantear la propia metodología didactica.
 
 - Fuente de información más compleja e inspiradora que un buscador web. En dinámicas de conversación y discusión en clase, podemos pedir a la IA generativa que nos proporcione la información que necesitamos para impulsar la conversación. La respuesta del bot no es la primera ni última palabra. Solo proporciona detalles que podemos utilizar para discutir un tema.
 
