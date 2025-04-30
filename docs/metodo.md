@@ -46,7 +46,7 @@ Una variación, sería facilitar el mismo enunciado a dos motores de inteligenci
 
 El objetivo formativo es preguntar a la inteligencia artificial generativa de manera interactiva (es un chat) para obtener las aclaraciones necesarias para comprender mejor tanto el enunciado como la respuesta obtenida.
 
-### Análisis de documentos
+### La investigación, no es una opción
 
 Cuando el profesorado facilita un documento, y el estudiante realiza una simplificación del mismo con el uso de la inteligencia artificial generativa.
 
