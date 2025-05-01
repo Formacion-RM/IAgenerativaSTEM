@@ -57,7 +57,7 @@ Existen muchos recursos que permiten la generación de imágenes aunque la mayor
 [Bing](https://www.bing.com/images/create?toWww=1&redig=37ADF736F405418EB0DED7E061E32E5B){:target="_blank"}
 
 
-<figure>![imagen](imagenes/ima4.PNG)</figure>
+<figure markdown>![imagen](imagenes/ima4.PNG)</figure>
 
 
 
@@ -67,7 +67,7 @@ Existen muchos recursos que permiten la generación de imágenes aunque la mayor
 [Stablediffusion](https://stablediffusionweb.com/){:target="_blank"}
 
 
-<figure>![imagen](imagenes/ima1.PNG)</figure>
+<figure markdown>![imagen](imagenes/ima1.PNG)</figure>
 
 - **Hotpot**: te ayuda a crear imágenes, gráficos, etc. permitiendo visualizar ideas con el generador de imágenes.
 
@@ -75,7 +75,7 @@ Existen muchos recursos que permiten la generación de imágenes aunque la mayor
 [Hotpot](https://hotpot.ai/){:target="_blank"}
 
 
-<figure>![imagen](imagenes/ima9.PNG)</figure>
+<figure markdown>![imagen](imagenes/ima9.PNG)</figure>
 
 
 - **Catbird**: plataforma sencilla y fácil de usar.
@@ -83,7 +83,7 @@ Existen muchos recursos que permiten la generación de imágenes aunque la mayor
 [Catbird](https://www.catbird.ai/){:target="_blank"}
 
 
-<figure>![imagen](imagenes/ima2.PNG)</figure>
+<figure markdown>![imagen](imagenes/ima2.PNG)</figure>
 
 
 
@@ -94,7 +94,7 @@ Existen muchos recursos que permiten la generación de imágenes aunque la mayor
 [deepdreamgenerator](https://deepdreamgenerator.com/){:target="_blank"}
 
 
-<figure>![imagen](imagenes/ima3.PNG)</figure>
+<figure markdown>![imagen](imagenes/ima3.PNG)</figure>
 
 
 !!!info "Acceso a servicios ""Gratuitos"" "
@@ -119,7 +119,7 @@ Cada imágen se basa en la anterior generada, aplicando cierta modificación, en
 [RunWay](https://runwayml.com/){:target="_blank"}
 
 
-<figure>![imagen](imagenes/ima6.PNG)</figure>
+<figure markdown>![imagen](imagenes/ima6.PNG)</figure>
 
 
 - **InVideoAI**: Crea vídeos a partir de su descripción en texto. Tiene una versión gratuita (aunque te tienes que registrar) que permite un tiempo limitado de uso y almacenamiento y 4 exportaciones por semana con el logo de la herramienta.
@@ -127,19 +127,21 @@ Cada imágen se basa en la anterior generada, aplicando cierta modificación, en
 [InVideoAI](https://ai.invideo.io/workspace/eaf00b9c-4aa5-4a22-8f64-c37501671fb1/v20-copilot){:target="_blank"}
 
 
-<figure>![imagen](imagenes/ima7.PNG)</figure>
+<figure markdown>![imagen](imagenes/ima7.PNG)</figure>
 
 - **Synthesia STUDIO**: permite realizar vídeos a partir de textos que son narrados por un avatar. Es una herramienta gratuita y tiene una serie de limitaciones.
 
 [Synthesia STUDIO](https://app.synthesia.io/#/welcome?redirect=%2F){:target="_blank"}
 
 
-<figure>![imagen](imagenes/ima8.PNG)</figure>
+<figure markdown>![imagen](imagenes/ima8.PNG)</figure>
 
 
 ## Referencias
 
 - **CIVITAI**. Interesante repositorio de prompts para generar imágenes y vídeos. [https://civitai.com/](https://civitai.com/){target="_blank"} Pulsando en el icono de la parte inferior derecha de cada *imagen muestra* libre o pública, se muestra la ficha con el prompt, positivo y negativo utilizado, el módelo y algunos datos más.
+
+- **Napkin**. Permite trasladar ideas expresadas en texto a gráficos organizativos. [https://www.napkin.ai/](https://www.napkin.ai/){target="_blank"}. Como si escribieras en una servilleta una idea repentina.
 
 
 

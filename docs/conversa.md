@@ -76,7 +76,7 @@ Algunos consejos básicos:
 
 Aunque existen muchas herramientas que utilizan la IA generativa. La mayoría son derivados de los modelos más potententes y conocidos:
 
-Condiciones de uso
+Condiciones de uso de los modelos más conocidos.
 
 ### ChatGPT
 Es necesario estar registrado para poder utilizarlo. Dispone de una versión superior, de pago por suscripción. La versión actual gratuita es **GPT-4o**, por defecto, hasta consumir los items diarios, pero se puede cambiar a otros modelos como **o4-mini** o **GTP-4o-mini** siendo estos últimos más rápidos. 

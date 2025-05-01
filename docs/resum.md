@@ -32,21 +32,21 @@ Para la generación de resúmenes necesitamos:
 
 Es un generador de resúmenes que utiliza tecnología avanzada de IA para desglosar un contenido extenso en resúmenes más rápidos de leer y entender.
 
-<figure>![imagen](imagenes/resum2.PNG){width=80%, height=80%}</figure>
+<figure markdown>![imagen](imagenes/resum2.PNG){width=80%, height=80%}</figure>
 
 
 [ahref](https://ahrefs.com/es/writing-tools/summarizer){:target="_blank"}
 
 Es una herramienta gratuita para resumir y simplificar el contenido extenso para poder facilitar la lectura.
 
-!<figure>[imagen](imagenes/resum3.PNG){width=80%, height=80%}</figure>
+!<figure markdown>[imagen](imagenes/resum3.PNG){width=80%, height=80%}</figure>
 
 
 [PopAi](https://www.popai.pro/){:target="_blank"}
 
 PopAi es una herramienta que proporciona respuestas al instante ya que integra modotes de búsqueda, lectura de PDF y generación de Powerpoint.
 
-<figure>![imagen](imagenes/resum4.PNG){width=80%, height=80%}</figure>
+<figure markdown>![imagen](imagenes/resum4.PNG){width=80%, height=80%}</figure>
 
 
 [ChatPDF](https://www.chatpdf.com/){:target="_blank"}
@@ -56,7 +56,7 @@ Más que una herramienta para resumir, es una evolución personalizada de chat g
 Para utilizarlo, *NO es necesario estar registrado*. Sólo en el caso de querer tener acceso al historial, sera necesario acceder con un usuario.
 
 
-<figure>![chatpdf](imagenes/resum5.PNG){width=80%, height=80%}</figure>
+<figure markdown>![chatpdf](imagenes/resum5.PNG){width=80%, height=80%}</figure>
 
 
 
@@ -68,11 +68,11 @@ Existen diferentes herramientas para la creación de presentaciones con IA. Esta
 
 
 
-<figure>[Enlace a Canva](https://www.canva.com/){:target="_blank"}</figure>
+<figure markdown>[Enlace a Canva](https://www.canva.com/){:target="_blank"}</figure>
 
 
 
-<figure>![imagen](imagenes/canva.PNG){width=80%, height=80%}</figure>
+<figure markdown>![imagen](imagenes/canva.PNG){width=80%, height=80%}</figure>
 
 
 
@@ -84,31 +84,31 @@ Existen diferentes herramientas para la creación de presentaciones con IA. Esta
 
 
 
-<center>[Enlace a Gamma.app](https://gamma.app/?lng=es-ES){:target="_blank"}</center>
+<figure markdown>[Enlace a Gamma.app](https://gamma.app/?lng=es-ES){:target="_blank"}</figure>
 
-<center>![](imagenes/gamma.PNG){width=80%, height=80%}</center>
+<figure markdown>![](imagenes/gamma.PNG){width=80%, height=80%}</figure>
 
 
 - **Presentations.ai**: Plataforma que utiliza IA para la creación de diapositivas, sugiere diseños, estilos de texto, gráficos y otros elementos que mejoran la presentación.
 
-<center>[Enlace a Presentations.ai](https://www.presentations.ai/){:target="_blank"}</center>
+<figure markdown>[Enlace a Presentations.ai](https://www.presentations.ai/){:target="_blank"}</figure>
 
-<center>![](imagenes/presen.png){width=80%, height=80%}</center>
+<figure markdown>![](imagenes/presen.png){width=80%, height=80%}</figure>
 
 - **MagicSlides**: Crea presentaciones de Google a partir de un tema, texto, vídeo o dirección Web.
 
-<center>[Enlace a MagicSlides](https://workspace.google.com/marketplace/app/magicslides_app_gpt_for_slides/371894645570){:target="_blank"}</center>
+<figure markdown>[Enlace a MagicSlides](https://workspace.google.com/marketplace/app/magicslides_app_gpt_for_slides/371894645570){:target="_blank"}</figure>
 
-<center>![](imagenes/magic1.PNG){width=80%, height=80%}</center>
+<figure markdown>![](imagenes/magic1.PNG){width=80%, height=80%}</figure>
 
 Después de instalar la herramienta accedes a las presentaciones de Google:
 
 
-<center>![](imagenes/magic2.png){width=50%, height=50%}</center>
+<figure markdown>![](imagenes/magic2.png){width=50%, height=50%}</figure>
 
 
 
-<center>![](imagenes/magic3.png){width=80%, height=80%}</center>
+<figure markdown>![](imagenes/magic3.png){width=80%, height=80%}</figure>
 
 
 ## **Crear documento en formato PDF**
@@ -125,14 +125,14 @@ Pasos:
 - Registrarse en Overleaf.
 - Crear un nuevo proyecto:
 
-<figure>![](imagenes/over1.PNG){width=80%, height=80%}</figure>
+<figure markdown>![](imagenes/over1.PNG){width=80%, height=80%}</figure>
 
 - Proyecto en blanco y ponerle nombre al proyecto.
 - Con la herramienta ChatGPT crea un documento latex sobre el tema que quieras y copia el código.
 
-<figure>![](imagenes/over2.PNG){width=80%, height=80%}</figure>
+<figure markdown>![](imagenes/over2.PNG){width=80%, height=80%}</figure>
 
 - Borra lo que aparece en el panel de la izquierda y pega el texto anterior. Pulsa el botón Compile (Recompile). Puedes poner tu nombre o modificar lo que quieras en el panel de la izquierda. Recuerda que después de modificar debes recompilar. Una vez el documento sea de tu agrado lo puedes descargar.
 
-<figure>![](imagenes/over3.png)</figure>
+<figure markdown>![](imagenes/over3.png)</figure>
 
