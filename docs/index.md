@@ -20,12 +20,7 @@ El test de Turing consiste en hacer que una persona hable a través de una panta
 
 Ya han pasado más de 70 años desde que se enunciara el test de Turing y hay máquinas que han conseguido superarla.
 
-<figure style="text-align: center;">
 
-![](imagenes/ia1.jpg){width=50%, height=50%}
-
-</figure>
-con figure
 <figure markdown>
 ![](imagenes/ia1.jpg){width=50%, height=50%}
 </figure>
@@ -43,7 +38,7 @@ con figure
 
 La inteligencia artificial generativa, es un tipo de software diseñado para crear contenido nuevo, como texto, imágenes o música, basándose en patrones aprendidos de grandes cantidades de datos. En otras palabras, puede ayudar a generar material creativo de manera automática utilizando lo que ha aprendido de ejemplos existentes. Por ejemplo, puede escribir historias, dibujar imágenes o componer música basándose en lo que ha visto y aprendido previamente. Sin embargo, es importante recordar que no tiene conciencia ni emociones como los seres humanos, y su función es ayudar y asistir en tareas específicas.
 
-<center>![](imagenes/logo2.png){width=300}</center>
+<figure markdown>![](imagenes/logo2.png){width=300}</figure>
 
 La inteligencia artificial generativa (IA generativa) se refiere a un conjunto de técnicas y algoritmos que permiten a las máquinas generar contenido original y creativo, como imágenes, texto, música y otros tipos de datos. A diferencia de los enfoques tradicionales de inteligencia artificial que se centran en tareas específicas y predictivas, la IA generativa se enfoca en la capacidad de crear nuevas instancias de datos que se asemejan a los ejemplos con los que ha sido entrenada.
 
@@ -82,7 +77,7 @@ La historia y evolución de la inteligencia artificial generativa es fascinante 
     La historia de la inteligencia artificial generativa es una historia de innovación constante y avances tecnológicos que han ampliado significativamente nuestras capacidades para generar contenido creativo y original en una variedad de dominios.
 
 
-<center>![](imagenes/ia3.jpg){width=50%, height=50%}</center>
+<figure markdown>![](imagenes/ia3.jpg){width=50%, height=50%}</figure>
 
 
 ## **Fundamentos técnicos de la IA Generativa**
@@ -124,7 +119,7 @@ La inteligencia artificial generativa (IA generativa) está revolucionando la fo
 Estas ideas nos invitan a imaginar un futuro en el que la IA generativa transforme radicalmente la forma en que enseñamos y aprendemos, proporcionando experiencias educativas más personalizadas, interactivas y significativas para todos los estudiantes. Al explorar las aplicaciones prácticas de esta tecnología en el ámbito educativo, podemos abrir nuevas fronteras para la innovación y el avance en la enseñanza y el aprendizaje.
 
 
-<center>![](imagenes/miro.PNG)</center>
+<figure markdown>![](imagenes/miro.PNG)</figure>
 
 
 ## **IA Generativa para docentes**
@@ -151,7 +146,7 @@ Este tema nos invita a considerar no solo el potencial transformador de la IA ge
 
 Existen actualmente varias versiones, que permiten el uso gratuito hasta cierto límite y otra de pago que tiene más prestaciones.
 
-<center>![](imagenes/chatgpt.PNG){width=300}</center>
+<figure markdown>![](imagenes/chatgpt.PNG){width=300}</figure>
 
 
 [Enlace a ChatGPT](https://chat.openai.com/){:target="_blank"}
@@ -161,7 +156,7 @@ Promovido por Microsoft, se anuncia como *"su complemento de IA para todos los d
 
 **Copilot** dispone de otras herramientas derivadas que pueden utilizarse para generar imágenes, planes vacacionales, entrenador y asistente de cocina. También está integrado en otras aplicaciones de Microsoft.
 
-<center>![](imagenes/copilot_herramientas.png)</center>
+<figure markdown>![](imagenes/copilot_herramientas.png)</figure>
 
 [Enlace a Copilot](https://www.bing.com/chat?q=Microsoft+Copilot&FORM=hpcodx){:target="_blank"}
 
@@ -195,7 +190,7 @@ Imagina a Gemini como un superhéroe muy inteligente, creado por Google. Es como
 **Superpoderes de conocimiento:** Sabe mucho sobre el mundo, como si fuera una enciclopedia gigante.
 
 
-<center>![](imagenes/gemini.png)</center>
+<figure markdown>![](imagenes/gemini.png)</figure>
 
 [Enlace a Gemini](https://gemini.google.com/app){:target="_blank"}
 
