@@ -4,7 +4,7 @@ summary: Las IA generativas conversacionales se han hecho un lugar en el arco de
 authors:
     - Manuela Iborra
     - Jose Robledano
-date: 2024-03-18
+date: 2025-05-01
 ---
 # IA conversacional
 
@@ -34,6 +34,13 @@ Con la IA generativa, es posible crear material didáctico personalizado que se 
 
 La IA generativa puede ser utilizada para desarrollar tutoriales interactivos que guíen a los estudiantes a través de conceptos complejos de manera dinámica y personalizada. Estos tutoriales pueden adaptarse según el progreso del estudiante, proporcionando retroalimentación instantánea y sugerencias de mejora.
 
+!!! info "Son chats"
+
+    Muchas IAs se presentan en forma de chat, lo que permite entablar un dialogo de aprendizaje sobre conceptos e ideas.
+
+    Hay que plantear cuestiones adecuadas, y generar una dinámica de conversación orientada a las necesidades formativas concretas.
+
+
 ## **Creación de Contenido Creativo**
 
 La IA generativa puede ser una herramienta poderosa para fomentar la creatividad en el aula. Por ejemplo, se pueden utilizar algoritmos generativos para crear obras de arte, composiciones musicales, historias o poemas originales. Esto no solo ayuda a los estudiantes a desarrollar su creatividad, sino que también les permite explorar diferentes formas de expresión artística.
@@ -43,53 +50,82 @@ La IA generativa puede ser una herramienta poderosa para fomentar la creatividad
 Utilizando técnicas de IA generativa, es posible personalizar el material de estudio para adaptarlo a las necesidades individuales de cada estudiante. Esto incluye la generación de resúmenes, esquemas y ejemplos específicos que se ajusten al nivel de conocimiento y estilo de aprendizaje de cada estudiante.
 
 !!! alert "Una poderosa herramienta"
-    La IA generativa ofrece numerosas oportunidades para crear contenidos educativos dinámicos, interactivos y personalizados que pueden mejorar significativamente la experiencia de aprendizaje de los estudiantes. Al integrar esta tecnología de manera efectiva en el aula, los educadores pueden potenciar el proceso de enseñanza y ayudar a los estudiantes a alcanzar su máximo potencial.
+    
+    La IA generativa ofrece numerosas oportunidades para crear contenidos educativos dinámicos, interactivos y personalizados que pueden mejorar significativamente la experiencia de aprendizaje de los estudiantes. 
+    
+    Al integrar esta tecnología de manera efectiva en el aula, los educadores pueden potenciar el proceso de enseñanza y ayudar a los estudiantes a alcanzar su máximo potencial.
 
 
-<center>![](imagenes/ia2.jpg){width=50%, height=50%}</center>
+<figure markdown>![](imagenes/ia2.jpg){width=50%, height=50%}</figure>
 
 
 ## **Recomendaciones para el buen uso de la IA**
 
+El **prompt** es el texto que se redacta para comunicar las instrucciones a la IA. Una elaboración adecuada ayuda a obtener resultados satisfactorios.
+
+Algunos consejos básicos:
 - Realizar preguntas claras y concisas.
 - Usar palabras claves del tema.
 - Desglosar preguntas complejas en preguntas más simples.
-- Ser persistente si no se consigue una respuesta satisfactoria, es decir volver a escribir la pregunta formulada de otra forma.
+- Ser persistente si no se consigue una respuesta satisfactoria, es decir volver a reescribir la pregunta formulada de otra forma.
 - Si vamos a cambiar el tema de la conversación, es mejor comenzar una conversación nueva.
 - Validar la información obtenida **siempre**.
 
 
 ## **Herramientas conversacionales**
 
-Aunque existen muchas herramientas que utilizan la IA generativa. La mayoría son derivados de los tres modelos más potententes y conocidos:
+Aunque existen muchas herramientas que utilizan la IA generativa. La mayoría son derivados de los modelos más potententes y conocidos:
 
 Condiciones de uso
 
 ### ChatGPT
-Es necesario estar registrado para poder utilizarlo. Dispone de una versión superior, de pago por suscripción. La versión actual gratuita es ChatGPT 3.5. 
+Es necesario estar registrado para poder utilizarlo. Dispone de una versión superior, de pago por suscripción. La versión actual gratuita es **GPT-4o**, por defecto, hasta consumir los items diarios, pero se puede cambiar a otros modelos como **o4-mini** o **GTP-4o-mini** siendo estos últimos más rápidos. 
 
-Al iniciar sesión se puede consultar y continuar conversaciones anteriores, ya que quedan almacenadas en el historial. Se pueden utilizar diferentes idiomas sin que se aprecien diferencias importantes en las respuestas obtenidas.
+Al iniciar sesión se puede consultar y continuar conversaciones anteriores, ya que quedan almacenadas en el historial. 
+
+Se pueden utilizar diferentes idiomas sin que se aprecien diferencias importantes en las respuestas obtenidas.
 
 Se pueden generar diferentes conversaciones al mismo tiempo y cada una sigue un hilo diferente. Si se alcanza el límite de conversaciones se genera un aviso para ir eliminando algunas de ellas.
 
 Después de generar cada respuesta, esta puede ser valorada, reproducida en audio, o copiada. Si se solicita que la regenere, además solicitará que se haga una comparación entre los resultados ofrecidos.
 
+Elección del modelo adecuado para ofrecer una respuesta de manera **automática**. Entre las posibilidades disponibles, elige la más adecuada de manera automática.
+
+Incorpora la opcion **búsqueda web** que permite obtener información más actual. Anteriormente no era posible obtener referencias actuales de la web.
+
+Con la opción **Explorar GPT** se puede acceder a bot creados por otros usuarios para propósitos específicos. Son chats con funcionalidad específica que pueden ajustarse mejor a nuestras necesidades.
+
+
+!!! alert "Constante y frecuente actualización"
+
+    Los servicios y características que ofrece pueden variar con bastante rapidez, debido a varias causas.
+
+    Hay que estar atento a las novedades y posibilidades nuevas que se abren.
+
+    También es posible que se incorporen nuevas características que no siempre han estado disponibles.
+
+
 Algunas limitaciones:
 
-- No es posible hacer referencias a sitios de internet.
-- No genera imágenes (es otra herramienta, Dall-e).
-- No se pueden adjuntar ficheros en los mensajes.
+- No es posible acceder directamente a sitios de internet.
 - No interactua con dispositivos externos.
-- No ofrece conocimiento actualizado más allá de 2022.
+
 
 
 
 ### Copilot
 Se trata de una IA generativa conversacional basada en ChatGPT. Cambia el entorno de uso y las prestaciones que ofrece se ajustan a otros parámetros.
 
-Tiene cierta integración con el buscador **bing.com**, de manera que si se utiliza este último, se pueden formular preguntas directas y conseguir amplias respuestas sintetizadas a partir de los resultados de la búsqueda web. También aparecen las referencias de Internet a los sitios relacionados.
+Tiene cierta integración con el buscador [**bing.com**](https://www.bing.com){:target="_blank"}, de manera que si se utiliza este último, se pueden formular preguntas directas y conseguir amplias respuestas sintetizadas a partir de los resultados de la búsqueda web. También aparecen las referencias de Internet a los sitios relacionados.
 
 No es necesario estar registrado para utilizar **copilot** de manera que el texto de la búsqueda se puede trasladar directamente a la IAgenerativa. Ofrece un entorno conversacional, y acompaña las respuestas de imágenes ilustrativas y enlaces a páginas web que considera relevantes.
+
+!!! info "Cambio e integración con office365"
+
+    Actualmente está en un proceso de cambio de denominación. Microsoft está cambiando el nombre de la herramienta *office 365* por *copilot*.
+
+    De esta manera al utilizar la suit offimática, ya se incorpora toda la tecnología de copilot.
+
 
 Hay un límite de conversaciones en cada chat, si se alcanza este límite se puede iniciar uno nuevo o iniciar sesión, para no tener esta limitación.
 
@@ -99,14 +135,12 @@ Otra característica es que permite establecer el estilo de cada conversación e
 
 Se pueden utilizar referencias a sitios web, y también es posible adjuntar imágenes, aunque para crear imagenes en la respuesta es necesario iniciar sesión.
 
-Algunas limitaciones:
+Dispone de **Laboratorios** donde ofrece una visión de las nuevas utilidades y herramientas que se están desarrollando de manera experimental. Como *Copilot Podcast* o *Copilot Vision* para tareas más específicas. 
 
-- No se pueden cargar archivos.
-- No hay opción para cambiar entre los modelos: *creativo*, *equilibrado* y *preciso*.
-- No mantiene un historial de conversaciones anteriores.
+Su principal propósito es la integración en aplicaciones de escritorio para actuar como un *copiloto* en la actividad con las herramientas de software específico.
 
 
-<center>![](imagenes/cop1.png)</center>
+<figure markdown>![](imagenes/cop1.png)</figure>
 
 ### Gemini
 IA generativa conversacional de Google, anteriormente se llamaba *Bard* ahora es *Gemini*. Es necesario disponer de una cuenta de Google personal o Workspace (empresarial no educativa), y ser mayor de 18 años si estás en el espacio europeo. La versión *Gemini Advance* actualmente está solo disponible en inglés.
@@ -115,11 +149,7 @@ Las respuestas recibidas permiten realizar varias acciones, como son: valorar la
 
 Otra opción es **comprobar respuesta**, que marca el texto de la respuesta en verde o rojo, en función de si ha encontrado referencias con el buscador similares a la respuesta.
 
-Algunas limitaciones:
 
-- No se pueden adjuntar archivos.
-- No se pueden generar imágenes.
-- No analiza imágenes.
 
 !!! alert "En constante aprendizaje"
 
@@ -161,12 +191,12 @@ Ejemplo de un prompt básico y correcto:
 
 
 
-<center>![](imagenes/promp1.png)</center>
+<figure markdown>![](imagenes/promp1.png)</figure>
 
 Un prompt contextualizado:
 
 
-<center>![](imagenes/promp2.png)</center>
+<figure markdown>![](imagenes/promp2.png)</figure>
 
 ### **Elementos del prompt**
 
@@ -195,15 +225,15 @@ Una posible forma de generar un buen prompt puede ser la siguiente:
 
 **Ejemplo 1:** 
 
-<center>![](imagenes/p1.png)</center>
+<figure markdown>![](imagenes/p1.png)</figure>
 
 **Ejemplo 2:**
 
-<center>![](imagenes/p2.png)</center>
+<figure markdown>![](imagenes/p2.png)</figure>
 
 **Ejemplo 3:**
 
-<center>![](imagenes/p3.png)</center>
+<figure markdown>![](imagenes/p3.png)</figure>
 
 !!!alert "Recuerda"
 

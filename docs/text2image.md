@@ -4,7 +4,7 @@ summary: Las IA generativas de texto a imagen o vídeo, consiguen resultados imp
 authors:
     - Manuela Iborra
     - Jose Robledano
-date: 2024-03-18
+date: 2025-05-01
 ---
 # **Generación de elementos gráficos**
 
@@ -57,8 +57,7 @@ Existen muchos recursos que permiten la generación de imágenes aunque la mayor
 [Bing](https://www.bing.com/images/create?toWww=1&redig=37ADF736F405418EB0DED7E061E32E5B){:target="_blank"}
 
 
-<center>![imagen](imagenes/ima4.PNG)</center>
-
+<figure>![imagen](imagenes/ima4.PNG)</figure>
 
 
 
@@ -68,8 +67,7 @@ Existen muchos recursos que permiten la generación de imágenes aunque la mayor
 [Stablediffusion](https://stablediffusionweb.com/){:target="_blank"}
 
 
-<center>![imagen](imagenes/ima1.PNG)</center>
-
+<figure>![imagen](imagenes/ima1.PNG)</figure>
 
 - **Hotpot**: te ayuda a crear imágenes, gráficos, etc. permitiendo visualizar ideas con el generador de imágenes.
 
@@ -77,7 +75,7 @@ Existen muchos recursos que permiten la generación de imágenes aunque la mayor
 [Hotpot](https://hotpot.ai/){:target="_blank"}
 
 
-<center>![imagen](imagenes/ima9.PNG)</center>
+<figure>![imagen](imagenes/ima9.PNG)</figure>
 
 
 - **Catbird**: plataforma sencilla y fácil de usar.
@@ -85,7 +83,7 @@ Existen muchos recursos que permiten la generación de imágenes aunque la mayor
 [Catbird](https://www.catbird.ai/){:target="_blank"}
 
 
-<center>![imagen](imagenes/ima2.PNG)</center>
+<figure>![imagen](imagenes/ima2.PNG)</figure>
 
 
 
@@ -96,7 +94,7 @@ Existen muchos recursos que permiten la generación de imágenes aunque la mayor
 [deepdreamgenerator](https://deepdreamgenerator.com/){:target="_blank"}
 
 
-<center>![imagen](imagenes/ima3.PNG)</center>
+<figure>![imagen](imagenes/ima3.PNG)</figure>
 
 
 !!!info "Acceso a servicios ""Gratuitos"" "
@@ -121,7 +119,7 @@ Cada imágen se basa en la anterior generada, aplicando cierta modificación, en
 [RunWay](https://runwayml.com/){:target="_blank"}
 
 
-<center>![imagen](imagenes/ima6.PNG)</center>
+<figure>![imagen](imagenes/ima6.PNG)</figure>
 
 
 - **InVideoAI**: Crea vídeos a partir de su descripción en texto. Tiene una versión gratuita (aunque te tienes que registrar) que permite un tiempo limitado de uso y almacenamiento y 4 exportaciones por semana con el logo de la herramienta.
@@ -129,14 +127,14 @@ Cada imágen se basa en la anterior generada, aplicando cierta modificación, en
 [InVideoAI](https://ai.invideo.io/workspace/eaf00b9c-4aa5-4a22-8f64-c37501671fb1/v20-copilot){:target="_blank"}
 
 
-<center>![imagen](imagenes/ima7.PNG)</center>
+<figure>![imagen](imagenes/ima7.PNG)</figure>
 
 - **Synthesia STUDIO**: permite realizar vídeos a partir de textos que son narrados por un avatar. Es una herramienta gratuita y tiene una serie de limitaciones.
 
 [Synthesia STUDIO](https://app.synthesia.io/#/welcome?redirect=%2F){:target="_blank"}
 
 
-<center>![imagen](imagenes/ima8.PNG)</center>
+<figure>![imagen](imagenes/ima8.PNG)</figure>
 
 
 ## Referencias

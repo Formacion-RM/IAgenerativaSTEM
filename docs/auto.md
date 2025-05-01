@@ -4,7 +4,7 @@ summary: Las IA generativas pueden utilizarse para desarrollar acciones autoform
 authors:
     - Manuela Iborra
     - Jose Robledano
-date: 2024-03-18
+date: 2024-05-01
 ---
 # **Autoaprendizaje**
 
@@ -111,14 +111,14 @@ Mizou es una herramienta creada para docentes que te permite crear tu propio cha
 [Mizou](https://mizou.com/){:target="_blank"}
 
 
-<center>![chatbot](imagenes/bot1.PNG)</center>
+<figure>![chatbot](imagenes/bot1.PNG)</figure>
 
 
-<center>![chatbot](imagenes/bot2.PNG)</center>
+<figure>![chatbot](imagenes/bot2.PNG)</figure>
 
 Accedemos a gratuito para profesores:
 
-<center>![chatbot](imagenes/bot3.PNG)</center>
+<figure>![chatbot](imagenes/bot3.PNG)</figure>
 
 ### **Chatbots diversos con *poe.com***
 
@@ -128,7 +128,7 @@ Poe es una herramienta que permite explorar parte del universo de los chatbots, 
 
 Desde la plataforma de **poe** se puede acceder a casi todos las IA generativas. Hay que tener en cuenta que cada una de ellas puede tiene diferentes condiciones de uso. 
 
-<center>![Pantalla principal poe.com](imagenes/poe.png)</center>
+<figure>![Pantalla principal poe.com](imagenes/poe.png)</figure>
 
 También es posible **crear nuestros propios chatbots**, utilizando la IA generativa que elijamos. Para crear un nuevo chat bot:
 
@@ -138,7 +138,7 @@ También es posible **crear nuestros propios chatbots**, utilizando la IA genera
 - Definir una base de conocimiento con materiales propios.
 - El bot puede ser público o privado.
 
-<center>![Crear un bot](imagenes/poe2.png)</center>
+<figure>![Crear un bot](imagenes/poe2.png)</figure>
 
 !!! alert "Experimenta"
 
@@ -182,16 +182,16 @@ Estas herramientas se especializan en detectar contenido generado IA y pueden se
 
 - [**GPTZero**](https://zerogpt.net/es){:target="_blank"}
 
-<center>![](imagenes/detector1.PNG)</center>
+<figure>![](imagenes/detector1.PNG)</figure>
 
 
 - [**Copyleaks**](https://copyleaks.com/es/ai-content-detector){:target="_blank"}
 
-<center>![](imagenes/detector2.PNG)</center>
+<figure>![](imagenes/detector2.PNG)</figure>
 
 - [**Smodin**](https://smodin.io/es/detector-de-contenido-de-ia){:target="_blank"}
 
-<center>![](imagenes/detector3.PNG)</center>
+<figure>![](imagenes/detector3.PNG)</figure>
 
 Ante la sospecha de malas prácticas en el uso de la Inteligencia Artificial, se pueden utilizar los detectores de de texto generado por IA.
 

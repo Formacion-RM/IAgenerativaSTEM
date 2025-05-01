@@ -4,7 +4,7 @@ summary: Las IA generativas facilitan la realizacion de resúmenes y presentacio
 authors:
     - Manuela Iborra
     - Jose Robledano
-date: 2024-03-18
+date: 2025-05-01
 ---
 # Resúmenes y presentaciones
 
@@ -18,7 +18,7 @@ Para la generación de resúmenes necesitamos:
 - Herramienta IA como ChatGPT, Gemini, etc.
 
 
-<center>![imagen](imagenes/resum1.PNG){width=80%, height=80%}</center>
+<figure markdown>![imagen](imagenes/resum1.PNG){width=80%, height=80%}</figure>
 
 !!! info "Importante"
     No debemos quedarnos directamente con el resultado sin antes leerlo y verificar que el resumen obtenido se ajusta a lo que nosotros queremos ofrecer al alumno.
@@ -32,21 +32,21 @@ Para la generación de resúmenes necesitamos:
 
 Es un generador de resúmenes que utiliza tecnología avanzada de IA para desglosar un contenido extenso en resúmenes más rápidos de leer y entender.
 
-<center>![imagen](imagenes/resum2.PNG){width=80%, height=80%}</center>
+<figure>![imagen](imagenes/resum2.PNG){width=80%, height=80%}</figure>
 
 
 [ahref](https://ahrefs.com/es/writing-tools/summarizer){:target="_blank"}
 
 Es una herramienta gratuita para resumir y simplificar el contenido extenso para poder facilitar la lectura.
 
-<center>![imagen](imagenes/resum3.PNG){width=80%, height=80%}</center>
+!<figure>[imagen](imagenes/resum3.PNG){width=80%, height=80%}</figure>
 
 
 [PopAi](https://www.popai.pro/){:target="_blank"}
 
 PopAi es una herramienta que proporciona respuestas al instante ya que integra modotes de búsqueda, lectura de PDF y generación de Powerpoint.
 
-<center>![imagen](imagenes/resum4.PNG){width=80%, height=80%}</center>
+<figure>![imagen](imagenes/resum4.PNG){width=80%, height=80%}</figure>
 
 
 [ChatPDF](https://www.chatpdf.com/){:target="_blank"}
@@ -56,7 +56,7 @@ Más que una herramienta para resumir, es una evolución personalizada de chat g
 Para utilizarlo, *NO es necesario estar registrado*. Sólo en el caso de querer tener acceso al historial, sera necesario acceder con un usuario.
 
 
-<center>![chatpdf](imagenes/resum5.PNG){width=80%, height=80%}</center>
+<figure>![chatpdf](imagenes/resum5.PNG){width=80%, height=80%}</figure>
 
 
 
@@ -68,11 +68,11 @@ Existen diferentes herramientas para la creación de presentaciones con IA. Esta
 
 
 
-<center>[Enlace a Canva](https://www.canva.com/){:target="_blank"}</center>
+<figure>[Enlace a Canva](https://www.canva.com/){:target="_blank"}</figure>
 
 
 
-<center>![imagen](imagenes/canva.PNG){width=80%, height=80%}</center>
+<figure>![imagen](imagenes/canva.PNG){width=80%, height=80%}</figure>
 
 
 
@@ -125,14 +125,14 @@ Pasos:
 - Registrarse en Overleaf.
 - Crear un nuevo proyecto:
 
-<center>![](imagenes/over1.PNG){width=80%, height=80%}</center>
+<figure>![](imagenes/over1.PNG){width=80%, height=80%}</figure>
 
 - Proyecto en blanco y ponerle nombre al proyecto.
 - Con la herramienta ChatGPT crea un documento latex sobre el tema que quieras y copia el código.
 
-<center>![](imagenes/over2.PNG){width=80%, height=80%}</center>
+<figure>![](imagenes/over2.PNG){width=80%, height=80%}</figure>
 
 - Borra lo que aparece en el panel de la izquierda y pega el texto anterior. Pulsa el botón Compile (Recompile). Puedes poner tu nombre o modificar lo que quieras en el panel de la izquierda. Recuerda que después de modificar debes recompilar. Una vez el documento sea de tu agrado lo puedes descargar.
 
-<center>![](imagenes/over3.png)</center>
+<figure>![](imagenes/over3.png)</figure>
 
