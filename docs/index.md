@@ -12,16 +12,17 @@ date: 2025-04-11
 
 La Inteligencia Artificial es uno de los mayores avances tecnológicos que hemos tenido en los últimos tiempos, de ahí la curiosidad por conocer herramientas de IA que nos ayuden en nuestro trabajo diario.
 
-Podemos definir la IA como la capacidad que tiene un dispositivo para realizar tareas que generalmente requieren inteligencia humana, es decir, la capacidad de una máquina para pensar, aprender, razonar y tomar decisiones como lo haría una persona.
+Se puede definir la IA como *la capacidad que tiene un dispositivo para realizar tareas que generalmente requieren inteligencia humana*, es decir, la capacidad de una máquina para pensar, aprender, razonar y tomar decisiones como lo haría una persona.
 
-
-El matemático británico Alan Turing (1912-1954) es considerado uno de los padres de las Ciencias de la Computación. Entre muchas de sus contribuciones formuló la prueba que lleva su nombre **"El test de Turing"**. Según este investigador, un ordenador que fuese capaz de pasar el test de Turing se podría considerar inteligente.
+El matemático británico *Alan Turing (1912-1954)* es considerado uno de los padres de las Ciencias de la Computación. Entre muchas de sus contribuciones formuló la prueba que lleva su nombre **"El test de Turing"**. Según este investigador, una máquina capaz de pasar el test de Turing se podría considerar inteligente.
 
 El test de Turing consiste en hacer que una persona hable a través de una pantalla y un teclado simultáneamente con un grupo de individuos entre los que se esconde un ordenador. A la vista de las respuestas que recibe de cada uno de ellos, esta persona debería ser capaz de saber quién es el ordenador y quiénes son los seres humanos. Si el ordenador no es descubierto, se podría considerar que ha pasado el test de Turing. Dado que la conversación se lleva a cabo en forma de texto, a través de un teclado y un monitor, no es necesario que la máquina sea capaz de transformar el texto en voz, aunque estoy hoy en día ya es posible. Esta prueba no evalúa conocimientos, dado que un ser humano no lo sabe todo, sino que lo que mide es la capacidad de una máquina de conversar como lo haría un ser humano.
 
 Ya han pasado más de 70 años desde que se enunciara el test de Turing y hay máquinas que han conseguido superarla.
 
 <center>![](imagenes/ia1.jpg){width=50%, height=50%}</center>
+
+![](imagenes/ia1.jpg){width=50%, height=50%}
 
 
 ## **IA Generativa**
