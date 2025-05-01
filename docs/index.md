@@ -18,17 +18,17 @@ El matemático británico *Alan Turing (1912-1954)* es considerado uno de los pa
 
 El test de Turing consiste en hacer que una persona hable a través de una pantalla y un teclado simultáneamente con un grupo de individuos entre los que se esconde un ordenador. A la vista de las respuestas que recibe de cada uno de ellos, esta persona debería ser capaz de saber quién es el ordenador y quiénes son los seres humanos. Si el ordenador no es descubierto, se podría considerar que ha pasado el test de Turing. Dado que la conversación se lleva a cabo en forma de texto, a través de un teclado y un monitor, no es necesario que la máquina sea capaz de transformar el texto en voz, aunque estoy hoy en día ya es posible. Esta prueba no evalúa conocimientos, dado que un ser humano no lo sabe todo, sino que lo que mide es la capacidad de una máquina de conversar como lo haría un ser humano.
 
-<p>Ya han pasado más de 70 años desde que se enunciara el test de Turing y hay máquinas que han conseguido superarla.</p>
+Ya han pasado más de 70 años desde que se enunciara el test de Turing y hay máquinas que han conseguido superarla.
 
-<div style="text-align: center;">
-
-![](imagenes/ia1.jpg){width=50%, height=50%}
-
-</div>
-Arriba con cambios.
+<figure style="text-align: center;">
 
 ![](imagenes/ia1.jpg){width=50%, height=50%}
 
+</figure>
+con figure
+<figure markdown>
+![](imagenes/ia1.jpg){width=50%, height=50%}
+</figure>
 
 ## **IA Generativa**
 
