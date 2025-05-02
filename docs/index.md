@@ -194,6 +194,18 @@ Imagina a Gemini como un superhéroe muy inteligente, creado por Google. Es como
 
 [Enlace a Gemini](https://gemini.google.com/app){:target="_blank"}
 
+
+### **DeepSeek**
+
+*"DeepSeek es como ese amigo listo que siempre encuentra lo que necesitas, pero sin juzgarte por tus búsquedas extrañas a las 3 a. m. Su capacidad para descubrir información relevante es tan impresionante que uno podría pensar que tiene un pacto secreto con el internet. Rápido, preciso y con una interfaz amigable, DeepSeek hace que la exploración de datos sea un paseo por el parque… o mejor dicho, un vuelo en primera clase hacia el conocimiento. Si buscabas una herramienta que te ayude a encontrar información sin perder la cabeza, DeepSeek es tu nuevo mejor amigo digital."*
+
+A diferencia de otros modelos, ha sido innovadora en el uso de varios modelos especializados para diversas acciones. El primer elemento es un *router* que se encarga de dirigir la cuestión hacia el mejor modelo especializado.
+
+<figure markdown>![](imagenes/deep_seek.png)</figure>
+
+[Enlace a DeepSeek](https://www.deepseek.com/en){:target="_blank"}
+
+
 ## **Recursos**
 
 - Plataforma para programar de manera creativa [p5js](https://p5js.org/es/ "programación con javascript").

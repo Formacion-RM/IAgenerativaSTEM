@@ -12,6 +12,12 @@ date: 2025-05-01
 
 Las herramientas de IA para la generación de textos, también nos dan la posibilidad de resumir textos largos concretando los puntos claves y facilitando la comprensión del texto de forma más rápida.
 
+!!! info "La IA transparente"
+
+    Actualmente hay un cambio de tendencia en las aplicaciones de IA. Hasta ahora eran mas o menos vistosas, pero están evolucionando hasta un punto en el que la tecnología ya es **transparente**.
+    
+    La IA ya está integrada en muchas aplicaciones habituales por defecto.
+
 Para la generación de resúmenes necesitamos:
 
 - Texto para resumir que puede ser un libro, capítulo, ensayo, noticia, etc.

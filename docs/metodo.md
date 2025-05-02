@@ -8,16 +8,26 @@ date: 2025-04-26
 ---
 # **Metodología didáctica con IA**
 
-La Inteligencia Artificial generativa es una readlidad en los procesos de enseñanza y aprendizaje.
+La Inteligencia Artificial generativa es una realidad en los procesos de enseñanza y aprendizaje.
 
 !!! alert "La IA responde"
     *"Las herramientas de inteligencia artificial, ***siempre*** dan una respuesta a cualquier pregunta"*
+
+
+!!! info "De Internet a la IA"
+
+    A partir de la idea de que **todo está en Internet**, y de que es necesario aplicar el criterio para distinguir qué es interesante y qué no.
+
+    La IA evidencia que la metodología docente se tiene que actualizar y hacer cambios estructurales.
+
+
+Hay que ser consciente de la necesidad de **redefinir la asignatura/módulo** en base al nuevo contexto. Con el objetivo de mejorar la implicación de los estudiantes en su proceso de aprendizaje, permitiendo ver la utilidad real.
 
 Es fácil encontrar situaciones donde se está utilizando, así como indicar ejemplos ejemplos de experiencias educativas basadas en esta herramienta.
 
 ## Casos de uso
 
-Se recopilan aquí algunas acciones conocidas, realizadas por el alumnado, junto con sugerencias de mejora que permitan otorgar un valor formativo mayor.
+Se recopilan aquí algunas acciones conocidas, realizadas en algunas situaciones. Junto con sugerencias de mejora que permitan otorgar un valor formativo mayor.
 
 ### Respuesta directa
 
@@ -89,3 +99,17 @@ Conocer las posibilidades de la inteligencia artificial generativa ayuda a repla
 - **1, 2, 4... IA**, añade la IA a dinámicas de trabajo en equipo. Por ejemplo en la metodología de pensamiento de trabajo desde el individual a la parte de grupo, se puede incorporar la *opinión* de la IA generativa. Añadiendo una nueva perspectiva al grupo.
 
 - **Debate con la IA**. A partir de un tema de debate, se puede generar un chat con la IA generativa para establecer debates de entrenamiento con el alumnado. 
+
+
+## Sostenibilidad de la IA
+
+Desde ciertas fuentes se está generando una corriente de alerta ante el uso masivo de la IA. Uno de los argumentos más frecuentes es cuestionar la sostenibilidad.
+
+La base de la sostenibilidad es utilizar **prompts productivos**, frente a otras tecnologías con resultados más dispersos o de escaso valor. Las búsquedas en Internet generan respuestas menos productivas, ya que requieren un esfuerzo superior de cribado y selección. 
+
+El envío de contenidos en muchas redes sociales tampoco aporta gran valor, sin embargo no se cuestiona su sostenibilidad.
+
+!!! alert "Autobus o coche"
+
+    Se puede plantear un símil con el autobús, que consume más que un coche, sin embargo la solución para reducir el consumo es utilizar el autobús frente al coche particular.
+
