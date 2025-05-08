@@ -29,6 +29,22 @@ Para la generación de resúmenes necesitamos:
 !!! info "Importante"
     No debemos quedarnos directamente con el resultado sin antes leerlo y verificar que el resumen obtenido se ajusta a lo que nosotros queremos ofrecer al alumno.
 
+### **Lliurex 25 y la IA**
+
+En la Comunidad Valenciana se dispone del sistema operativo [Lliurex](https://portal.edu.gva.es/lliurex/es/descargas/){:target="_blank"}, de libre distribución. 
+
+A partir de la versión 25 se ha realizado un esfuerzo importante de integración de la IA, de manera controlada y siguiendo ciertas pautas éticas.
+
+Esto supone una importante ampliación de posibilidades de muchas aplicaciones que ya están integradas en el sistema y pueden ser utilizadas directamente en el aula.
+
+En el siguiente enlace hay disponible información sobre las características de algunas nuevas posibilidades, entre ellas el uso de IA en el procesador de texto *write* de LibreOffice.
+
+[Uso de IA generativa de texto en LibreOffice Writer](https://portal.edu.gva.es/blogs/s1/lliurex/es/2024/12/19/uso-de-ia-generativa-de-texto-en-libreoffice-writer/){:target="_blank"}
+
+
+<figure markdown>![Alicia](imagenes/alicia_ollama.png){width=80%, height=80%}</figure>
+
+
 
 ### **Herramientas para la generación de resúmenes**
 
