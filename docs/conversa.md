@@ -64,6 +64,7 @@ Utilizando técnicas de IA generativa, es posible personalizar el material de es
 El **prompt** es el texto que se redacta para comunicar las instrucciones a la IA. Una elaboración adecuada ayuda a obtener resultados satisfactorios.
 
 Algunos consejos básicos:
+
 - Realizar preguntas claras y concisas.
 - Usar palabras claves del tema.
 - Desglosar preguntas complejas en preguntas más simples.
@@ -157,6 +158,51 @@ Otra opción es **comprobar respuesta**, que marca el texto de la respuesta en v
 
     Los resultados pueden parecer inconexos y con excesivas referencias a contenido de sitios web, lo que puede ser considerado como una mezcla de la tecnología de búsqueda con la IA generativa.
 
+### Claude
+
+Acceso a la tecnología de IA avanzada de Anthropic sin costo.
+
+Capacidad para realizar conversaciones de texto completas.
+
+Ayuda con redacción, resúmenes, ideas creativas y respuestas a preguntas.
+
+Interfaz fácil de usar.
+
+Disponible en varios idiomas, como puedes ver.
+
+Se puede cambiar el formato de las respuestas, desde un desplegable en el espacio para escribir el prompt.
+
+
+Algunas limitaciones:
+
+- Número limitado de mensajes por día (comparado con suscripciones de pago).
+- Sin acceso al modo de "razonamiento extendido" (exclusivo de cuentas Pro).
+- Posible tiempo de respuesta más lento en horas pico.
+- Sin acceso a ciertos modelos más avanzados de la familia Claude 3.
+- Limitaciones en el tamaño de los archivos que se pueden cargar y procesar.
+
+### DeepSeek
+
+Funcionalidades básicas de IA: Acceso a tareas como respuestas a preguntas, generación de texto (ej. correos, resúmenes) y asistencia en aprendizaje o investigación simple.
+
+Tareas cotidianas: Ayuda en redacción, recomendaciones, explicaciones conceptuales o soporte para proyectos personales no comerciales.
+
+Modelo estándar: Uso de una versión base del modelo, suficiente para necesidades generales.
+
+Se pueden adjuntar imágenes y documentos textuales.
+
+
+Algunas limitaciones:
+
+- Límites de uso: Restricciones en el número de consultas por día/mes.
+
+- Funcionalidades avanzadas bloqueadas: Sin acceso a características premium como análisis detallado, personalización avanzada o integraciones.
+
+- Velocidad y prioridad: Respuestas más lentas frente a usuarios de pago.
+
+- Uso comercial restringido: Posible prohibición de emplearlo para fines comerciales o empresariales.
+
+- Soporte limitado: Atención al cliente básica o inexistente.
 
 ## **El Prompt de la IA**
 
