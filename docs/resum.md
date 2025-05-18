@@ -33,11 +33,11 @@ Para la generación de resúmenes necesitamos:
 
 En la Comunidad Valenciana se dispone del sistema operativo [Lliurex](https://portal.edu.gva.es/lliurex/es/descargas/){:target="_blank"}, de libre distribución. 
 
-A partir de la versión 25 se ha realizado un esfuerzo importante de integración de la IA, de manera controlada y siguiendo ciertas pautas éticas.
+A partir de la **versión 25** se ha realizado un esfuerzo importante de integración de la IA, de manera controlada y siguiendo ciertas pautas éticas.
 
-Esto supone una importante ampliación de posibilidades de muchas aplicaciones que ya están integradas en el sistema y pueden ser utilizadas directamente en el aula.
+Esto supone una importante ampliación de posibilidades de muchas aplicaciones que ya están integradas en la distribución y pueden ser utilizadas directamente en el aula.
 
-En el siguiente enlace hay disponible información sobre las características de algunas nuevas posibilidades, entre ellas el uso de IA en el procesador de texto *write* de LibreOffice.
+En el siguiente enlace hay disponible información sobre las nuevas características y sus posibilidades. Entre ellas cabe destacar el uso de IA en el procesador de texto *write* de la suit ofimática **LibreOffice**.
 
 [Uso de IA generativa de texto en LibreOffice Writer](https://portal.edu.gva.es/blogs/s1/lliurex/es/2024/12/19/uso-de-ia-generativa-de-texto-en-libreoffice-writer/){:target="_blank"}
 
@@ -61,15 +61,33 @@ Es un generador de resúmenes que utiliza tecnología avanzada de IA para desglo
 
 Es una herramienta gratuita para resumir y simplificar el contenido extenso para poder facilitar la lectura.
 
-!<figure markdown>[imagen](imagenes/resum3.PNG){width=80%, height=80%}</figure>
+<figure markdown>![imagen](imagenes/resum3.PNG){width=80%, height=80%}</figure>
+
+!!! alert "Característica destacada"
+
+    La herramienta permite seleccionar de una manera muy gráfica **el tono de la respuesta**.
+
+    De esta forma se consigue una respuesta más ajustada al contexto de uso del resumen, aportando una gran variedad de estilos.
 
 
 [PopAi](https://www.popai.pro/){:target="_blank"}
 
-PopAi es una herramienta que proporciona respuestas al instante ya que integra modotes de búsqueda, lectura de PDF y generación de Powerpoint.
+PopAi es una herramienta que proporciona respuestas al instante, ya que integra muchas herramientas (*no todas gratuitas*) con diferente propósitos, que pueden resultar interesantes para realizar diferentes procesamientos de textos. 
+
+Se pueden realizar diagramas de flujo, generación de imágenes, lectura de PDF y generación de Powerpoint.
 
 <figure markdown>![imagen](imagenes/resum4.PNG){width=80%, height=80%}</figure>
 
+Por contra, hay que considerar el precio de este servicio. Se basa en el uso de otros modelos y aunque tiene algunos que permite probar en modo **sin pago**, son muy limitados.
+
+!!! alert "**Free** vs **gratis**"
+
+    La opción **free** de muchos servicios debe considerarse como **libre uso**, pero no hay que confundirlo con **gratuito**.
+
+    En muchos casos **el pago** puede ser nuestros datos, bien al formalizar el registro en la plataforma. O también con **los documentos** facilitados para el servicio.
+
+    Hay que ser muy cuidadosos con la confidencialidad de los datos educativos.
+    
 
 [ChatPDF](https://www.chatpdf.com/){:target="_blank"}
 
