@@ -218,7 +218,43 @@ Hacer **validaciones orales** con los estudiantes que han presentado ejercicios 
 Pedir a los estudiantes que presenten **el proceso lógico** que han seguido, o bien un borrador o una pequeña parte de la tarea para demostrar que han trabajado en las respuestas.
 
 
+## **Evaluación**
+
+También es posible utilizar la IA para la evaluación, o autoevaluación del autoaprendizaje.
+
+- **Cuestiones de autoevaluación** solicitando cuestiones de diferente nivel, o de dificultad gradual, para evaluar los conceptos que se están trabajando.
+
+- **Comparación de respuestas**. Se puede solicitar al alumnado que compare las respuestas obtenidas mediante la IA para resolución de una tarea, y la que el propio alumnado ha determinado de manera manual.
+
+- **Gemelo digital del docente**, también se puede facilitar al alumnmado una banco de preguntas o cuestiones tipo, y solicitar a la IA que genere otras nuevas cuestiones similares. De esta manera los criterios de corrección y la tipología de las cuestiones se ajusta al estilo del docente.
 
 
+
+
+### **Rúbricas de evaluación** 
+
+No solo es posible generar el enunciado para una tarea, también se puede crear una rúbrica de evaluación.
+
+En este caso, es importante aportar información concreta sobre la tarea a evaluar, y los criterios de evaluación que deben ser considerados. 
+
+Se puede utilizar la referencia directa a la programación diseñada para la asignatura, de esta manera nos aseguramos que se están siguiendo los criterios de la asignatura o módulo.
+
+!!! info "La programación didáctica ***útil**"
+
+    La programación didáctica es la fase del proceso formativo en el aula, de manera que todas las acciones deben estar ajustadas a los parámetros marcados en esta.
+
+    Utiliza el documento de la progrmación didáctica de tu asignatura o módulo para concretar y focalizar las respuestas y diseños de rúbricas, así como la contextualización de las actividades.
+
+
+### **Cuestionarios en aules**
+
+Es posible generar cuestiones para completar cuestionarios en Aules, tan solo habrá que revisar con posterioridad que las propuestas se ajustan al propósito de evaluación.
+
+Sin duda, es posible obtener preguntas y respuestas tipo test para completar nuestro cuestionario. Pero se debe ir un poco más alla...
+
+Solicita que la respuesta esté en un formato que Aules pueda importar (por ejemplo, gift o XML Moodle). De esta manera el resultado será un documento o un texto que tendremos que copiar y pegar en un documento, para posteriormente importarlo al banco de preguntas de Aules.
+
+
+<figure markdown>![](imagenes/banc.png)</figure>
 
 
