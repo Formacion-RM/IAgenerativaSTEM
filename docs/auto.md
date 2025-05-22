@@ -233,20 +233,84 @@ También es posible utilizar la IA para la evaluación, o autoevaluación del au
 
 ### **Rúbricas de evaluación** 
 
-No solo es posible generar el enunciado para una tarea, también se puede crear una rúbrica de evaluación.
+No solo es posible obtener el enunciado para una tarea, también se puede crear una rúbrica de evaluación. Estas rúbricas, generadas y ajustadas dinámicamente mediante IA, permiten una evaluación más personalizada, objetiva y adaptativa.  
 
-En este caso, es importante aportar información concreta sobre la tarea a evaluar, y los criterios de evaluación que deben ser considerados. 
+En este caso, es importante aportar una base de conocimiento concreta sobre la cual construir la rúbrica. Esto supone aportar, entre otros elementos, el enunciado de la tarea que se quiere evaluar, los criterios de evaluación específicos del módulo o asignatura. 
 
-Se puede utilizar la referencia directa a la programación diseñada para la asignatura, de esta manera nos aseguramos que se están siguiendo los criterios de la asignatura o módulo.
+También se pueden especificar otras características de la rubríca, como por ejemplo el tipo de rúbrica (evolutiva, check), la extensión de la misma, o detalles específicos del diseño.
 
-!!! info "La programación didáctica ***útil**"
+Una opción lógica para cualquier docente, es utilizar la referencia directa a la programación diseñada para la asignatura o módulo, de esta manera se aseguramos la contextualización adecuada.
 
-    La programación didáctica es la fase del proceso formativo en el aula, de manera que todas las acciones deben estar ajustadas a los parámetros marcados en esta.
+!!! info "La programación didáctica **útil**"
 
-    Utiliza el documento de la progrmación didáctica de tu asignatura o módulo para concretar y focalizar las respuestas y diseños de rúbricas, así como la contextualización de las actividades.
+    La programación didáctica es un elemento fundamental en la planificación educativa, ya que establece los objetivos, contenidos, metodologías y criterios de evaluación de una asignatura. En el contexto de la Educación Secundaria Obligatoria (ESO), Bachillerato y Ciclos Formativos, su correcta elaboración permite una enseñanza estructurada y adaptada a las necesidades del alumnado.
+
+    Utiliza el documento de la **programación didáctica** de tu asignatura o módulo para concretar y focalizar los diseños de rúbricas, así como la contextualización de las actividades.
+
+  
+
+### **La Programación Didáctica como Base para la Evaluación**  
+
+La programación didáctica no solo organiza los contenidos, sino que también define los estándares de aprendizaje y las competencias a evaluar. Al estructurar estos elementos de manera clara, se facilita la creación de instrumentos de evaluación coherentes, como las rúbricas.  
+
+**Componentes Clave para la Generación de Rúbricas**
+
+- **Objetivos de aprendizaje**: Definen lo que el alumnado debe alcanzar.  
+- **Criterios de evaluación**: Establecen los indicadores de logro.  
+- **Competencias clave**: Permiten evaluar habilidades transversales.  
+- **Metodologías activas**: Influencian el tipo de evaluación (proyectos, portfolios, etc.).  
+
+Estos componentes pueden ser procesados por sistemas de IA generativa para diseñar *rúbricas adaptativas*.  
 
 
-### **Cuestionarios en aules**
+## **Rúbricas de Evaluación Evolutivas**
+
+Las rúbricas son matrices que describen niveles de desempeño en diferentes criterios. Una **rúbrica evolutiva** es aquella que se ajusta en tiempo real según el progreso del estudiante, gracias al análisis de datos y la IA.  
+
+**Ventajas de las Rúbricas Generadas con IA**  
+
+- **Personalización**: La IA puede ajustar los criterios según el ritmo de aprendizaje individual.  
+- **Retroalimentación inmediata**: Proporciona correcciones y sugerencias en tiempo real.  
+- **Reducción de carga docente**: Automatiza procesos repetitivos de evaluación.  
+- **Adaptabilidad**: Modifica los indicadores según nuevas evidencias de aprendizaje.  
+
+
+**La Creación de Rúbricas**
+
+La IA generativa (como GPT-4, Gemini o modelos especializados en educación) puede analizar la programación didáctica y generar rúbricas iniciales, que luego se perfeccionan con datos del aula.  
+
+
+1. **Análisis de la programación didáctica**: La IA extrae objetivos, competencias y criterios.  
+2. **Diseño de la rúbrica base**: Propone una matriz de evaluación con descriptores.  
+3. **Ajuste continuo**: Utiliza datos de evaluaciones previas para refinar los criterios.  
+4. **Integración con plataformas LMS**: Se sincroniza con Moodle, Google Classroom, etc.  
+
+
+### **Beneficios para Docentes y Estudiantes**  
+
+**Para el Profesorado**
+
+- **Eficiencia**: Reduce el tiempo en crear rúbricas manualmente.  
+- **Consistencia**: Evita sesgos en la evaluación.  
+- **Enfoque pedagógico**: Permite centrarse en la enseñanza, no en burocracia.  
+
+**Para el Alumnado**
+
+- **Claridad**: Entienden mejor qué se espera de ellos.  
+- **Autonomía**: Pueden autoevaluarse con herramientas interactivas.  
+- **Motivación**: La retroalimentación constante mejora el engagement.  
+
+
+### **Desafíos y Consideraciones Éticas**
+
+A pesar de sus ventajas, hay retos:
+
+- **Sesgo algorítmico**: La IA puede replicar desigualdades si los datos de entrenamiento son parciales.  
+- **Privacidad**: El uso de datos estudiantiles debe ser ético y cumplir con el RGPD.  
+- **Sobredependencia**: El docente debe mantener su criterio pedagógico.  
+
+
+## **Cuestionarios en aules**
 
 Es posible generar cuestiones para completar cuestionarios en Aules, tan solo habrá que revisar con posterioridad que las propuestas se ajustan al propósito de evaluación.
 
