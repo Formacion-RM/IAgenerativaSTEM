@@ -56,6 +56,17 @@ Una variación, sería facilitar el mismo enunciado a dos motores de inteligenci
 
 El objetivo formativo es preguntar a la inteligencia artificial generativa de manera interactiva (es un chat) para obtener las aclaraciones necesarias para comprender mejor tanto el enunciado como la respuesta obtenida.
 
+Con la IA generativa el alumnado tiene **una respuesta, en segundos a casi cualquier pregunta**. Para afrontar esta situación **hay que cambiar la forma de hacer la pregunta**. Cambiando lo que se pide realizar. 
+
+Lo que debe cambiar es la manera de hacer que afronten **tareas** a resolver. Las tienen que poder solucionar con ayuda de la IA generativa.
+
+!!! info "IA en el aula"
+
+    **Hay que convertir a la IA generativa en una aliada, no en una enemiga.**
+
+    La prohibición no resuelve nada, no tiene recorrido.
+
+
 ### La investigación, no es una opción
 
 Cuando el profesorado facilita un documento, y el estudiante realiza una simplificación del mismo con el uso de la inteligencia artificial generativa.
@@ -87,6 +98,12 @@ Conocer las posibilidades de la inteligencia artificial generativa ayuda a repla
     Recuerda que la **creación** está muy relacionada con la **reproducción**. Estas dos acciones básicas del comportamiento social humano se repiten continuamente en nuestras vidas. 
     
     Obtenemos y escogemos ejemplos que consideramos buenos.
+
+Se deben diseñar actividades y retos en los que tengan que utilizar aspectos que no se puedan resolver con una pregunta a la IA generativa.
+
+Hay que replantearse cómo se hace trabajar al alumnado, qué se le pide y qué competencias tienen que alcanzar.
+
+La evaluación tiene que ser cada vez más diversificada: estrategias evaluativas variadas, varios agentes evaluadores (autoevaluación, coevaluación y heteroevaluación) y diferentes formatos de recogida de la información que nos aporta la evaluación, al final, es una **toma de decisiones**.
 
 - **Nuevo producto remezclado**. Facilita a la IA generativa varios trabajos del alumnado para que realice una mezcla componiendo productos derivados. En lengua puede tratarse de un poema, un relato, un texto infantil, ilustraciones. A partir del resultado el alumnado puede generar más variaciones creativas.
 
