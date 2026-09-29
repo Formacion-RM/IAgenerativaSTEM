@@ -204,7 +204,16 @@ Promovido por Microsoft, se anuncia como *"su complemento de IA para todos los d
 
 ### **Claude**
 
-Es la nueva IA de Anthropic. Es una herramienta libre y de uso gratuito aunque también dispone de la versión de pago. La compañía destaca las mejoras significativas en lo referente a las capacidades de comprensión y resumen cuando se trabaja con documentos largos y complejos que requieren de un alto grado de precisión.
+Anthropic es una empresa de IA fundada por exinvestigadores de OpenAI y se ha consolidado como uno de los referentes en modelos de lenguaje de alto rendimiento, con especial atención a la calidad en la escritura, la comprensión de documentos largos y el trabajo con herramientas y agentes. La familia Claude ha evolucionado hacia modelos más potentes y multimodales, capaces de analizar textos, imágenes, código y otros tipos de contenido, además de mantener conversaciones más coherentes y contextualizadas.
+
+Entre sus propuestas más recientes destacan:
+
+- Modelos de la familia Claude optimizados para razonamiento, redacción, análisis de documentos y programación.
+- Capacidad para trabajar con contexto largo y documentos complejos, útil en educación, investigación y análisis interno.
+- Integración con herramientas y flujos de trabajo, lo que permite usar la IA como asistente para tareas más complejas, no solo como chatbot.
+- Enfoque en seguridad y alineación, con un diseño centrado en la robustez, la transparencia y la reducción de respuestas dañinas o poco fiables.
+
+En este sentido, Claude se presenta no solo como un modelo conversacional, sino como un sistema orientado a la asistencia inteligente, la productividad y la colaboración con personas en tareas de redacción, análisis, programación y toma de decisiones apoyada.
 
 [Enlace a Claude](https://claude.ai/login?returnTo=%2F){:target="_blank"}
 
