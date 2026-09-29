@@ -18,7 +18,7 @@ El matemático británico *Alan Turing (1912-1954)* es considerado uno de los pa
 
 El test de Turing consiste en hacer que una persona hable a través de una pantalla y un teclado simultáneamente con un grupo de individuos entre los que se esconde un ordenador. A la vista de las respuestas que recibe de cada uno de ellos, esta persona debería ser capaz de saber quién es el ordenador y quiénes son los seres humanos. Si el ordenador no es descubierto, se podría considerar que ha pasado el test de Turing. Dado que la conversación se lleva a cabo en forma de texto, a través de un teclado y un monitor, no es necesario que la máquina sea capaz de transformar el texto en voz, aunque estoy hoy en día ya es posible. Esta prueba no evalúa conocimientos, dado que un ser humano no lo sabe todo, sino que lo que mide es la capacidad de una máquina de conversar como lo haría un ser humano.
 
-Ya han pasado más de 70 años desde que se enunciara el test de Turing y hay máquinas que han conseguido superarla.
+Ya han pasado más de 70 años desde que se enunciara el test de Turing. Aunque algunos sistemas pueden mantener conversaciones muy convincentes, superar una conversación no demuestra por sí solo comprensión, conciencia ni inteligencia general.
 
 
 <figure markdown>
@@ -32,7 +32,26 @@ Ya han pasado más de 70 años desde que se enunciara el test de Turing y hay m�
 
     Mi capacidad para generar contenido se basa en la diversidad y calidad de los datos con los que fui entrenado, así como en la arquitectura y algoritmos subyacentes que conforman mi funcionamiento. Sin embargo, aunque puedo producir contenido que parece humano, carezco de conciencia, emociones o intenciones propias. Mi propósito es ayudar y asistir a los usuarios en una variedad de tareas, desde la generación de ideas creativas hasta la asistencia en la resolución de problemas complejos.
 
-    *ChatGPT 3.5*
+    *ChatGPT 3.5* (2024)
+
+
+    La **IA generativa** es un tipo de inteligencia artificial capaz de **crear contenido nuevo** a partir de las instrucciones o datos que recibe.
+
+    Puede generar, por ejemplo:
+
+    * 📝 **Texto:** redactar documentos, resumir o responder preguntas.
+    * 🖼️ **Imágenes:** crear ilustraciones o diseños.
+    * 🎵 **Audio y música:** generar voces, sonidos o canciones.
+    * 🎬 **Vídeos:** producir escenas o animaciones.
+    * 💻 **Código:** escribir o modificar programas.
+
+    A diferencia de una IA que solo **clasifica o analiza información**, la IA generativa utiliza modelos entrenados con grandes cantidades de datos para **producir contenido que no existía previamente**.
+
+    **Ejemplo:** si le pides a una IA generativa *«Escribe un cuento sobre un astronauta que viaja a Marte»*, puede crear el cuento desde cero siguiendo esa instrucción.
+
+    *GPT-5.6 Luna* (2026)
+
+
 
 ## **Definición**
 
@@ -50,7 +69,7 @@ La importancia de la IA generativa en la educación radica en varias áreas clav
 
 3. **Aprendizaje Experimental**: Mediante la generación de entornos virtuales y simulaciones interactivas, la IA generativa puede proporcionar experiencias de aprendizaje inmersivas y realistas que complementan la enseñanza tradicional.
 
-4. **Automatización de Tareas Educativas**: La IA generativa puede ayudar a automatizar tareas administrativas y repetitivas, como la creación de exámenes y la corrección de ejercicios, liberando tiempo para que los educadores se centren en actividades más creativas y de alto valor agregado.
+4. **Automatización de Tareas Educativas**: La IA generativa puede ayudar a automatizar tareas administrativas y repetitivas, como la creación de exámenes y la corrección de ejercicios, liberando tiempo para que los educadores se centren en actividades más creativas y de alto valor añadido. La revisión docente sigue siendo imprescindible.
 
 5. **Investigación Educativa**: La IA generativa puede ser una herramienta poderosa para la investigación educativa, permitiendo a los investigadores generar y analizar grandes volúmenes de datos de manera eficiente y descubrir patrones y tendencias que ayuden a mejorar la práctica pedagógica.
 
@@ -71,7 +90,7 @@ La historia y evolución de la inteligencia artificial generativa es fascinante 
 
 5. **Década de 2010**: Uno de los hitos más importantes fue la introducción de las Redes Generativas Adversarias (GANs) por Ian Goodfellow y sus colegas en 2014. Las GANs revolucionaron la generación de contenido al permitir que dos redes neuronales compitan entre sí, generando así resultados de alta calidad en una variedad de dominios, como imágenes, texto y música.
 
-6. **Década de 2020 y más allá**: La investigación en inteligencia artificial generativa continúa avanzando a un ritmo acelerado, con aplicaciones cada vez más sofisticadas en campos como el arte, el diseño, la música, la escritura creativa y la simulación. Se espera que los avances futuros en áreas como el aprendizaje profundo y la computación cuántica impulsen aún más el desarrollo de técnicas generativas más potentes y versátiles.
+6. **Década de 2020 y más allá**: Los modelos fundacionales y los transformadores impulsaron asistentes multimodales capaces de trabajar con texto, imágenes, audio, vídeo y código. Más recientemente se han extendido los modelos con razonamiento, la generación y edición de vídeo, la ejecución de herramientas y los agentes capaces de completar flujos de trabajo con supervisión humana. Estos sistemas siguen pudiendo inventar información y cometer errores.
 
 !!! info "Innovación y avances constantes"
     La historia de la inteligencia artificial generativa es una historia de innovación constante y avances tecnológicos que han ampliado significativamente nuestras capacidades para generar contenido creativo y original en una variedad de dominios.
@@ -90,7 +109,7 @@ Las Redes Generativas Adversarias (GANs) son un tipo de arquitectura de red neur
 
 3. **Aplicaciones en la generación de imágenes y texto**: Las GANs han demostrado ser altamente efectivas en la generación de contenido visual, como imágenes realistas de rostros humanos, paisajes y obras de arte. Además, también se han utilizado con éxito en la generación de texto, como la creación de descripciones de imágenes o la generación de texto coherente en diferentes estilos y tonos. Las GANs también se aplican en una amplia gama de otras áreas, como la síntesis de audio, la creación de videojuegos y la generación de música.
 
-!!!info "Un aliado creativo"
+!!! info "Un aliado creativo"
     Las Redes Generativas Adversarias son una poderosa herramienta en el campo de la inteligencia artificial generativa, capaces de generar contenido visual y textual altamente realista y convincente. Su arquitectura básica y sus principios de funcionamiento las hacen extremadamente versátiles y adecuadas para una variedad de aplicaciones en la generación de contenido creativo.
 
 ## **Tipos de IA**
@@ -140,6 +159,18 @@ Este tema nos invita a considerar no solo el potencial transformador de la IA ge
 
 ## **Herramientas**
 
+## **Avances recientes y uso responsable**
+
+En los últimos meses, las herramientas generativas han evolucionado desde la conversación hacia la colaboración multimodal: pueden analizar documentos e imágenes, mantener contexto durante tareas largas, generar y ejecutar código, consultar herramientas externas y producir o editar audio y vídeo. También se han popularizado los **agentes**, que planifican varios pasos; deben utilizarse con permisos limitados, registro de acciones y revisión antes de ejecutar cambios o enviar información.
+
+Antes de incorporar una herramienta al aula conviene comprobar:
+
+1. **Fiabilidad:** contrastar hechos, cálculos, referencias y código; una respuesta fluida puede ser incorrecta.
+2. **Privacidad:** no introducir datos personales, confidenciales o identificables sin autorización y revisar dónde se procesan.
+3. **Equidad y accesibilidad:** detectar sesgos, ofrecer alternativas y no penalizar a quien no pueda usar estas herramientas.
+4. **Autoría y evaluación:** declarar el uso de IA, respetar licencias y evaluar el proceso, el razonamiento y la comprensión del alumnado.
+5. **Supervisión:** mantener la decisión final en manos de una persona, especialmente en calificaciones, orientación y otras decisiones de impacto.
+
 ### **ChatGPT**
 
 **ChatGPT** es una aplicación conversacional basada en IA, desarrollada por la empresa OpenAI en 2022. Es capaz de generar respuestas humanas coherentes y contextuales a partir de un texto de entrada. Ha sido entrenado en una amplia gama de texto de internet y es capaz de participar en conversaciones en lenguaje natural, responder preguntas y completar solicitudes.
@@ -162,7 +193,7 @@ Promovido por Microsoft, se anuncia como *"su complemento de IA para todos los d
 
 !!! info "Base de copilot"
 
-    Copilot está basado en chatGPT y utiliza herramientas desarrolladas por la empresa **OpenAI**, donde Microsoft mantiene una participación importante.
+    Copilot integra modelos y servicios de Microsoft y de otros proveedores, entre ellos modelos de OpenAI según el producto, la región y la configuración. Sus funciones pueden cambiar, por lo que conviene consultar la documentación oficial.
 
 !!! alert "Los agentes en copilot"
 
