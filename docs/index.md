@@ -97,6 +97,7 @@ La historia y evolución de la inteligencia artificial generativa es fascinante 
 
 
 <figure markdown>![](imagenes/ia3.jpg){width=50%, height=50%}</figure>
+<figure markdown>![](imagenes/escolar.jpg){width=50%, height=50%}</figure>
 
 
 ## **Fundamentos técnicos de la IA Generativa**
