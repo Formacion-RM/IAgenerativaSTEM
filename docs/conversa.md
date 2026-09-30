@@ -1,6 +1,6 @@
 --- 
 title: IA generativa conversacional
-summary: La IA generativa conversacional transforma la interacción con la tecnología y ofrece nuevas posibilidades para la educación. Este documento presenta sus principales características, aplicaciones didácticas y recomendaciones para utilizarla de forma crítica, responsable y personalizada.
+summary: La IA generativa conversacional transforma la interacción con la tecnología y ofrece nuevas posibilidades para la educación. Este documento presenta sus principales características, aplicaciones didácticas y recomendaciones para utilizarla de forma crítica, responsable y personalizada en el uso educativo.
 authors:
     - Manuela Iborra
     - Jose Robledano
