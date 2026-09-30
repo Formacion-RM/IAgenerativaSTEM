@@ -5,7 +5,7 @@ authors:
     - Manuela Iborra
     - Jose Robledano
 date: 2025-05-01
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 # IA conversacional
 
