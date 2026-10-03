@@ -1,11 +1,11 @@
 --- 
 title: IA generativa conversacional
-summary: La IA generativa conversacional transforma la interacción con la tecnología y ofrece nuevas posibilidades para la educación. Este documento presenta sus principales características, aplicaciones didácticas y recomendaciones para utilizarla de forma crítica, responsable y personalizada.
+summary: La IA generativa conversacional transforma la interacción con la tecnología y ofrece nuevas posibilidades para la educación. Este documento presenta sus principales características, aplicaciones didácticas y recomendaciones para utilizarla de forma crítica, responsable y personalizada en el uso educativo.
 authors:
     - Manuela Iborra
     - Jose Robledano
 date: 2025-05-01
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 # IA conversacional
 
@@ -225,6 +225,18 @@ Algunas limitaciones:
 - La aplicación puede ofrecer conversación, carga de archivos, imágenes y modos de razonamiento, pero sus límites y disponibilidad pueden cambiar.
 - La API y la aplicación tienen políticas de tratamiento, retención y transferencia de datos diferentes; no se deben introducir datos personales o confidenciales sin autorización.
 - Los modelos pueden mostrar sesgos, respuestas incorrectas o restricciones de contenido. Para uso comercial, institucional o local hay que revisar la licencia concreta y las condiciones vigentes.
+
+
+
+### Kimi
+Kimi es una familia de modelos y un asistente de inteligencia artificial desarrollado por Moonshot AI. Sus funciones y modelos disponibles evolucionan con rapidez y pueden variar según la aplicación, la API, el país y el plan. Se puede utilizar para redactar y resumir, responder preguntas, analizar documentos y, según la versión, trabajar con imágenes, búsqueda web, programación y tareas de razonamiento. Algunas versiones admiten contextos extensos, útiles para consultar documentos largos; no todas las funciones están disponibles en todas las cuentas.
+
+Sus puntos diferenciales pueden ser el manejo de contextos largos y la disponibilidad de modelos para integración mediante API, que facilita crear pruebas y automatizaciones. Esto no significa que sea superior a modelos más potentes o populares: el rendimiento depende de la tarea y de la versión, mientras que otros servicios pueden destacar por sus herramientas, integración, soporte o calidad en ámbitos concretos. Antes de usarlo, conviene consultar la información oficial sobre funciones, límites y precios vigentes.
+
+Algunas limitaciones:
+
+- Puede generar errores o referencias no verificables; hay que revisar sus respuestas.
+- Antes de compartir documentos o usar la API, se deben comprobar las políticas de privacidad, las condiciones de uso y la licencia del modelo concreto.
 
 ## **El prompt de la IA**
 
