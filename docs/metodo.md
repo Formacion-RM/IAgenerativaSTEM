@@ -4,7 +4,7 @@ summary: Las IA generativas pueden incorporarse a la docencia, pero es necesario
 authors:
     - Manuela Iborra
     - Jose Robledano
-date: 2025-04-26
+date: 2025-10-04
 ---
 # **Metodología didáctica con IA**
 
@@ -116,6 +116,21 @@ La evaluación tiene que ser cada vez más diversificada: estrategias evaluativa
 - **1, 2, 4... IA**, añade la IA a dinámicas de trabajo en equipo. Por ejemplo en la metodología de pensamiento de trabajo desde el individual a la parte de grupo, se puede incorporar la *opinión* de la IA generativa. Añadiendo una nueva perspectiva al grupo.
 
 - **Debate con la IA**. A partir de un tema de debate, se puede generar un chat con la IA generativa para establecer debates de entrenamiento con el alumnado. 
+
+### Enriquecimiento IA – CONNECTATS
+
+La Conselleria pone a disposición [Enriquecimiento IA – CONNECTATS](https://portal.edu.gva.es/connectats/es/enriquiment-ia-es/), una herramienta que ayuda a generar prompts de manera semiautomática. Además de facilitar su redacción, permite reconocer qué información necesita el modelo para ofrecer una respuesta útil: cuanto más claro y completo sea el encargo, más probable será obtener un resultado ajustado a lo que buscamos.
+
+Al completar la herramienta, concreta los siguientes datos, según los campos que presente:
+
+- **Qué necesitas**: el objetivo y la tarea concreta que debe realizar la IA.
+- **Contexto**: materia, tema y situación educativa en la que se utilizará el resultado.
+- **Destinatarios**: nivel o edad del alumnado y sus conocimientos previos.
+- **Papel de la IA**: por ejemplo, actuar como docente, tutor o creador de actividades.
+- **Características del resultado**: formato, extensión, tono y nivel de detalle deseados.
+- **Condiciones y materiales**: criterios que debe respetar, contenidos que debe incluir o evitar y fuentes o documentos de referencia.
+
+Revisa los datos antes de generar el prompt y evita incluir información personal o sensible del alumnado. Una vez generado, puedes copiarlo y pegarlo en la IA que utilices. Si la herramienta ofrece opciones para trasladarlo directamente, selecciona el servicio de destino disponible y comprueba el contenido antes de enviarlo. También puedes editar el prompt para añadir contexto o corregir aspectos que no se ajusten a la actividad.
 
 
 ## Sostenibilidad de la IA
