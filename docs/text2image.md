@@ -4,7 +4,7 @@ summary: Las IA generativas de texto a imagen o vídeo, consiguen resultados imp
 authors:
     - Manuela Iborra
     - Jose Robledano
-date: 2025-05-01
+date: 2026-10-07
 ---
 # **Generación de elementos gráficos**
 
@@ -103,7 +103,38 @@ Existen muchos recursos que permiten la generación de imágenes aunque la mayor
 
     En algunos casos, el servicio gratuito es muy limitado o no se ajusta a lo que se quiere obteer, con lo cual el haber facilitado nuestros datos no será correspondido con ningún servicio satisfactorio.
 
+### Recursos adicionales
 
+### Texto a imagen
+Entrada: texto.
+Salida: imagen.
+
+Aplicaciones: generar imágenes, inspirarse, crear arte, crear avatares y crear eslóganes.
+
+Herramientas: 
+[Dall-E](https://openai.com/dall-e-2){:target="_blank"}
+[Midjourney](https://www.midjourney.com/){:target="_blank"}
+[Bing Image Creator](https://www.bing.com/create){:target="_blank"}
+[Stable Diffusion](https://stablediffusionweb.com/){:target="_blank"}
+[Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}
+[Google Bard AI](https://bard.google.com/){:target="_blank"} 
+[Scribble Diffusion](https://scribblediffusion.com/){:target="_blank"}
+[Craiyon](https://www.craiyon.com/){:target="_blank"} 
+[Canva](https://www.canva.com/ai-image-generator/){:target="_blank"}
+
+### Imagen a imagen
+
+Entrada: imagen.
+Salida: imagen.
+
+Aplicaciones: modificar imágenes (hacer desaparecer objetos o personas, cambiar objetos, sacar fondos, etc.).
+
+Herramientas: 
+[Canva](https://www.canva.com/education/){:target="_blank"}  
+[Playground AI](https://playgroundai.com/){:target="_blank"}
+[Fotor](https://www.fotor.com/es/){:target="_blank"}
+[Autoenhance AI](https://www.autoenhance.ai/){:target="_blank"}
+[Hotpot AI](https://hotpot.ai/tools){:target="_blank"}
 
 
 ## **Generando vídeos** 
@@ -135,6 +166,22 @@ Cada imágen se basa en la anterior generada, aplicando cierta modificación, en
 
 
 <figure markdown>![imagen](imagenes/ima8.PNG)</figure>
+
+### Texto a vídeo
+
+Entrada: texto.
+Salida: vídeo.
+
+Aplicaciones: generar vídeos con características específicas seleccionadas, editar vídeos, traducir vídeos.
+
+Herramientas:
+[Movio](https://www.heygen.com/){:target="_blank"} 
+[Lumen5](https://lumen5.com/){:target="_blank"}
+[Synthesia.io](https://www.synthesia.io/){:target="_blank"}
+[D-ID](https://www.d-id.com/){:target="_blank"}
+[Runway](https://runwayml.com/¡){:target="_blank"}
+[Fliki](https://fliki.ai/features/texto-to-video){:target="_blank"}
+[Pictory](https://pictory.ai/){:target="_blank"}
 
 
 ## Referencias
